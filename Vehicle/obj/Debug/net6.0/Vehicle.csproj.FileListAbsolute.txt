@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\11.25\Vehicle\obj\Debug\net6.0\Vehicle.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\11.25\Vehicle\obj\Debug\net6.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11.25\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11.25\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfo.cs
+C:\Users\User\Desktop\11.25\Vehicle\obj\Debug\net6.0\Vehicle.csproj.CoreCompileInputs.cache
